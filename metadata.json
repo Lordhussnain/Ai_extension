@@ -1,0 +1,8 @@
+{
+  "name": "Aether Agent",
+  "description": "A production-ready Chrome WebExtension that works as a powerful AI-powered sidebar chatbot with document processing, memory, and custom tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
