@@ -48,7 +48,7 @@ export interface MockWebPage {
 
 export interface StorageMemory {
   key: string;
-  value: string;
+  value: any;
 }
 
 export interface ExtensionFileView {
